@@ -119,14 +119,14 @@ Verkefni sett fyrir í fyrirlestri mánudaginn 20. september 2021.
 
 ## Skil
 
-Skila skal í Canvas í seinasta lagi fyrir lok dags þriðjudaginn 22. september 2021.
+Skila skal í Canvas í seinasta lagi fyrir lok dags þriðjudaginn 28. september 2021.
 
 Skilaboð skulu innihalda:
 
 * slóð á verkefni
 * zip skjali með lausn
 
-Hver dagur eftir skil dregur verkefni niður um 10%, allt að 20% ef skilað fimmtudaginn 25. september 2021 en þá lokar fyrir skil.
+Hver dagur eftir skil dregur verkefni niður um 10%, allt að 20% ef skilað fimmtudaginn 30. september 2021 en þá lokar fyrir skil.
 
 ## Einkunn
 
