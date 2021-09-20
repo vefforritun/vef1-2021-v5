@@ -1,7 +1,7 @@
 
 # Vefforritun 1, 2021: Verkefni 5, CSS #3
 
-[Kynning í fyrirlestri](https://youtu.be/).
+[Kynning í fyrirlestri](https://youtu.be/mo0OFSHH5HI).
 
 Halda skal áfram með viðmót fyrir Vefforritunarfréttir úr [verkefni 4](https://github.com/vefforritun/vef1-2021-v4/), fréttamiðil sem færir vefforriturum mikilvægar fréttir af faginu. Nú skal setja upp grid og gera vefinn responsive.
 
