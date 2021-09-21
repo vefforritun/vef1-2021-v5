@@ -123,8 +123,8 @@ Skila skal í Canvas í seinasta lagi fyrir lok dags þriðjudaginn 28. septembe
 
 Skilaboð skulu innihalda:
 
-* slóð á verkefni
 * zip skjali með lausn
+* slóð á verkefni, best er að setja sem athugasemd _eftir_ að búið er að skila zip skjali
 
 Hver dagur eftir skil dregur verkefni niður um 10%, allt að 20% ef skilað fimmtudaginn 30. september 2021 en þá lokar fyrir skil.
 
