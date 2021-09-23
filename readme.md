@@ -102,6 +102,7 @@ Ekki skal nota önnur gildi fyrir `display` eða `position` eigindi _nema_ til a
   * `grid-template-columns`
   * `gap`
   * `grid-column`
+  * Leyfilegt er að nota önnur grid properties ef þið teljið ykkur þurfa/viljið nota þau
 
 ## Heimasvæði
 
